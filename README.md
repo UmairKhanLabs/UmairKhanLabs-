@@ -1,4 +1,5 @@
-![logo](<img width="1376" height="768" alt="Gemini_Generated_Image_bmoof4bmoof4bmoo")
+![logo](<img width="1036" height="548" alt="Capture" src="https://github.com/user-attachments/assets/a5711caf-bf63-4e55-942a-031b4f7ba255" />
+)
 <h1 align="center">Hi 👋, I'm Umair Khan</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
