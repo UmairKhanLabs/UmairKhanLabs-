@@ -1,6 +1,6 @@
 ![logo](<img width="1036" height="548" alt="Capture" src="https://github.com/user-attachments/assets/a5711caf-bf63-4e55-942a-031b4f7ba255" />
 )
-<h1 align="center">Hi 👋, I'm Umair Khan</h1>
+<h1 align="center">Hey👋😍, I'm Umair Khan</h1>
 <h3 align="center">An Aspiring AI Engineer</h3>
 
 <img align="right" alt="coding" width="400" scr="https://camo.githubusercontent.com/ef5a4a2d3e2478a0304b5dafa2b4230ea07d1efaebb21ee2532fd88e8851fd80/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
